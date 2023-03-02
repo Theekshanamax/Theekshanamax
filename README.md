@@ -5,4 +5,24 @@
 <a href="https://github.com/DarkWinzo"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Theekshana &description=Hello,%20I%20am%20Theekshana.%20I%20am%20beginner%20in%20programming,%20please%20Support%20Me&image=https://i.ibb.co/cg3mkr0/IMG-20230226-WA0037.jpg.jpg&backgroundColor=%23ecf0f1&instagram="/></a>
 </p>
 
+
+
+
+
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
+  
+
+  
+  Hi, I'm theekshana 💕
+
+
+I am 18 yeas old. From Sri Lanka 🇱🇰 
+
+I studied this subject in H/ Rajapaksa Madhya Maha Vidyalaya❤️🖱️
+
+See you 💘
+
+</details>
+ 
+---
