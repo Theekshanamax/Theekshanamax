@@ -7,6 +7,9 @@
 
 
 
+# My currently Making bots website 
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku&perline=15)](https://github.com/DarkWinzo)
+
 
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
