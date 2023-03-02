@@ -29,3 +29,19 @@ See you 💘
 </details>
  
 ---
+
+
+## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=94719892396&text=Hello%20Theekshana" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="Theekshana 💕"/></a>
+
+</p>
+
+---
+
+<h3>Theekshana's Music Player</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+
+---
