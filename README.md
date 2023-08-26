@@ -31,7 +31,7 @@ See you 💘
 ---
 
 
-## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## Connect with me
 <p align="center">
 
 <a href="https://api.whatsapp.com/send?phone=94719892396&text=Hello%20Theekshana" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="Theekshana 💕"/></a>
